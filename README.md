@@ -1,1 +1,1 @@
-# Customer-hurn-Analysis
+# Customer-Churn-Analysis
